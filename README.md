@@ -1,16 +1,8 @@
 # assignment4
+![Screenshot_20220323_154028](https://user-images.githubusercontent.com/100975313/159701546-f04f1825-0be9-4b50-9d36-9088f6e70e35.png)
+![Screenshot_20220323_153955](https://user-images.githubusercontent.com/100975313/159701576-0f9069a7-6870-4456-b28a-7b7be5555c5c.png)
+![Screenshot_20220323_153937](https://user-images.githubusercontent.com/100975313/159701597-28bd440a-de5d-4a6d-91ab-7bcb423b4f88.png)
 
-A new Flutter project.
+A new Flutter calendar app project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
